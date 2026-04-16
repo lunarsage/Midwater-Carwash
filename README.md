@@ -1,12 +1,9 @@
 # Midwater Carwash
 
-  # Carwash App Prototype Setup
 A mobile-first web application for **Midwater Carwash**, located in Aerorand, Middelburg, Mpumalanga, South Africa. Customers can browse wash services, book appointments, track live wash progress, manage vehicles, and earn loyalty rewards — all from their phone.
 
-  This is a code bundle for Carwash App Prototype Setup. 
 ## Features
 
-  ## Running the code
 - **Service Menu** — Three wash tiers priced in ZAR: Express Wash (R 120), Premium Wash (R 220), and Deluxe Detail (R 380).
 - **Online Booking** — Step-by-step flow to pick a service, date, time, and vehicle, then confirm the appointment.
 - **Live Wash Tracker** — Real-time progress screen showing bay, washing, drying, and completion stages with an ETA countdown.
@@ -16,11 +13,8 @@ A mobile-first web application for **Midwater Carwash**, located in Aerorand, Mi
 - **User Profiles** — Settings, saved payment methods, and support access.
 - **Admin Dashboard** — Manage appointments, services, users, and view analytics.
 
-  Run `npm i` to install the dependencies.
 ## Tech Stack
 
-  Run `npm run dev` to start the development server.
-  
 - **React 18** with TypeScript
 - **Vite** for build and dev server
 - **Tailwind CSS 4** for styling
@@ -80,4 +74,3 @@ src/
 ## License
 
 This project is proprietary to Midwater Carwash. All rights reserved.
-  
