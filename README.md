@@ -3,7 +3,7 @@
   # Carwash App Prototype Setup
 A mobile-first web application for **Midwater Carwash**, located in Aerorand, Middelburg, Mpumalanga, South Africa. Customers can browse wash services, book appointments, track live wash progress, manage vehicles, and earn loyalty rewards — all from their phone.
 
-  This is a code bundle for Carwash App Prototype Setup. The original project is available at https://www.figma.com/design/p3FIziBSjJojV1wUlSP7md/Carwash-App-Prototype-Setup.
+  This is a code bundle for Carwash App Prototype Setup. 
 ## Features
 
   ## Running the code
